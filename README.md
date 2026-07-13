@@ -668,18 +668,20 @@ Worked on enterprise cloud modernization, backend engineering, ETL pipelines, cl
 
 <div align="center">
 
-> **Create a GitHub Action that generates the snake animation into your repository's `output` branch.**
-
-```html
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nagasaicharanh/nagasaicharanh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nagasaicharanh/nagasaicharanh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/nagasaicharanh/nagasaicharanh/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nagasaicharanh/nagasaicharanh/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nagasaicharanh/nagasaicharanh/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/nagasaicharanh/nagasaicharanh/output/github-contribution-grid-snake.svg"
+  />
 </picture>
-```
 
 </div>
 
